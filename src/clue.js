@@ -132,7 +132,7 @@ function selectRandom(element) {
   return random;
 }
 
-selectRandom(weaponsArray);
+console.log(selectRandom(weaponsArray));
 
 let mystery = {};
 
